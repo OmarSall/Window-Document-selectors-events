@@ -1,0 +1,11 @@
+.underline {
+    text-decoration: underline;
+}
+
+.red-text {
+    color: red;
+}
+
+.large-text {
+    font-size: 20px;
+}

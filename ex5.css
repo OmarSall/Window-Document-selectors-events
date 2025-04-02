@@ -1,0 +1,12 @@
+#toggleColorButton {
+    background-color: yellow;
+    color: black;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+#toggleColorButton:hover {
+    opacity: 0.8;
+}
